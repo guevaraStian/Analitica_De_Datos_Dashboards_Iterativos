@@ -15,7 +15,7 @@
 Estos software de analitica de datos, Data Analytics y dashboard iterativos con datos de crimenes, futbol, loterias, mapas del estado del tiempo, radares. y con de tablas, graficos, radares, mapas, y calendarios.
 
 Los pasos para poner en ejecución son los siguientes
-Ir a la pagina web Git, luego descargarlo para tu sistema operativo, escoger la opción "add path" con el fin de poder ejecutar comandos de Python en la terminal de comandos, : 
+Ir a la pagina web Git, luego descargarlo para tu sistema operativo, escoger la opción "add path" con el fin de poder ejecutar comandos de Python en la terminal de comandos a continuacion: 
 
 ```Pagina web
 https://git-scm.com/downloads
